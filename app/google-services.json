@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "246954338513",
+    "project_id": "aplikasi-sistem-pakar-ac",
+    "storage_bucket": "aplikasi-sistem-pakar-ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246954338513:android:58c7b5add57b9422c3fdf0",
+        "android_client_info": {
+          "package_name": "com.example.kelompok15.pakarAc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246954338513-upmn8f2j0o92ligcbtenpsia252djp5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLr1KenOOjopelCh74hqx85QCpL70tTbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246954338513-upmn8f2j0o92ligcbtenpsia252djp5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
